@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<opml version="2.0"> 
+<head> 
+<title>My feedly feeds</title> 
+</head> 
+<body> 
+
+<outline text="OSR"> 
+ <outline text="(BHP) Confessions of a RPG Publisher" htmlUrl="http://carpgp.blogspot.com/" type="rss" xmlUrl="http://carpgp.blogspot.com/feeds/posts/default"/> 
+ <outline text=". . lapsus calumni . ." htmlUrl="http://www.msjx.org/" type="rss" xmlUrl="http://www.msjx.org/feeds/posts/default"/> 
+ <outline text="A character for every game" htmlUrl="http://rpgcharacters.wordpress.com" type="rss" xmlUrl="http://rpgcharacters.wordpress.com/feed/"/> 
+ <outline text="B/X BLACKRAZOR" htmlUrl="http://bxblackrazor.blogspot.com/" type="rss" xmlUrl="http://bxblackrazor.blogspot.com/feeds/posts/default"/> 
+ <outline text="Bat in the Attic" htmlUrl="http://batintheattic.blogspot.com/" type="rss" xmlUrl="http://batintheattic.blogspot.com/feeds/posts/default"/> 
+ <outline text="Beyond the Black Gate" htmlUrl="http://beyondtheblackgate.blogspot.com/" type="rss" xmlUrl="http://beyondtheblackgate.blogspot.com/feeds/posts/default"/> 
+ <outline text="Blue Boxer Rebellion" htmlUrl="http://blueboxerrebellion.blogspot.com/" type="rss" xmlUrl="http://blueboxerrebellion.blogspot.com/feeds/posts/default"/> 
+ <outline text="Brave Halfling Publishing"  type="rss" xmlUrl="http://bravehalfling.com/?feed=rss2"/> 
+ <outline text="Bruno's Demise" htmlUrl="http://brunosdemise.blogspot.com/" type="rss" xmlUrl="http://brunosdemise.blogspot.com/feeds/posts/default"/> 
+ <outline text="ConstantCon" htmlUrl="http://constantcon.blogspot.com/" type="rss" xmlUrl="http://constantcon.blogspot.com/feeds/posts/default"/> 
+ <outline text="Cyclopeatron" htmlUrl="http://cyclopeatron.blogspot.com/" type="rss" xmlUrl="http://cyclopeatron.blogspot.com/feeds/posts/default"/> 
+ <outline text="Daddy Rolled a 1" htmlUrl="http://daddyrolleda1.blogspot.com/" type="rss" xmlUrl="http://daddyrolleda1.blogspot.com/feeds/posts/default"/> 
+ <outline text="Dandy In The Underworld" htmlUrl="http://dandy-in-the-underworld.blogspot.com/" type="rss" xmlUrl="http://dandy-in-the-underworld.blogspot.com/feeds/posts/default"/> 
+ <outline text="Dangerous Brian: A Gamers Blog" htmlUrl="http://dangerousbrian.blogspot.com/" type="rss" xmlUrl="http://dangerousbrian.blogspot.com/feeds/posts/default"/> 
+ <outline text="Delta's D&D Hotspot" htmlUrl="http://deltasdnd.blogspot.com/" type="rss" xmlUrl="http://deltasdnd.blogspot.com/feeds/posts/default"/> 
+ <outline text="Dizzy's Dungeon" htmlUrl="http://www.dizzysdungeon.com/" type="rss" xmlUrl="http://www.dizzysdungeon.com/feeds/posts/default"/> 
+ <outline text="DMG in 30 Days" htmlUrl="http://dmgin30days.tumblr.com/" type="rss" xmlUrl="http://dmgin30days.tumblr.com/rss"/> 
+ <outline text="Dreams in the Lich House" htmlUrl="http://dreamsinthelichhouse.blogspot.com/" type="rss" xmlUrl="http://dreamsinthelichhouse.blogspot.com/feeds/posts/default"/> 
+ <outline text="Dreams of Mythic Fantasy" htmlUrl="http://dreamsofmythicfantasy.blogspot.com/" type="rss" xmlUrl="http://dreamsofmythicfantasy.blogspot.com/feeds/posts/default"/> 
+ <outline text="Dungeon Bludger" htmlUrl="http://dungeonbludger.blogspot.com/" type="rss" xmlUrl="http://dungeonbludger.blogspot.com/feeds/posts/default?alt=rss"/> 
+ <outline text="Expanding Universe" htmlUrl="http://expanduniver.blogspot.com/" type="rss" xmlUrl="http://expanduniver.blogspot.com/feeds/posts/default"/> 
+ <outline text="Fabled Lands" htmlUrl="http://fabledlands.blogspot.com/" type="rss" xmlUrl="http://fabledlands.blogspot.com/feeds/posts/default"/> 
+ <outline text="From the Sorcerer's Skull" htmlUrl="http://sorcerersskull.blogspot.com/" type="rss" xmlUrl="http://sorcerersskull.blogspot.com/feeds/posts/default"/> 
+ <outline text="fuckyeahbritisholdschoolgaming" htmlUrl="http://fuckyeahbritisholdschoolgaming.tumblr.com/" type="rss" xmlUrl="http://fuckyeahbritisholdschoolgaming.tumblr.com/rss"/> 
+ <outline text="GIANT EVIL WIZARD" htmlUrl="http://giantevilwizard.blogspot.com/" type="rss" xmlUrl="http://giantevilwizard.blogspot.com/feeds/posts/default"/> 
+ <outline text="Giblet Blizzard" htmlUrl="http://gibletblizzard.blogspot.com/" type="rss" xmlUrl="http://gibletblizzard.blogspot.com/feeds/posts/default"/> 
+ <outline text="Goblinoid Games" htmlUrl="http://goblinoidgames.blogspot.com/" type="rss" xmlUrl="http://goblinoidgames.blogspot.com/feeds/posts/default"/> 
+ <outline text="Gorgonmilk" htmlUrl="http://gorgonmilk.blogspot.com/" type="rss" xmlUrl="http://gorgonmilk.blogspot.com/feeds/posts/default"/> 
+ <outline text="GROGNARDIA" htmlUrl="http://grognardia.blogspot.com/" type="rss" xmlUrl="http://grognardia.blogspot.com/feeds/posts/default"/> 
+ <outline text="Hack & Slash" htmlUrl="http://hackslashmaster.blogspot.com/" type="rss" xmlUrl="http://hackslashmaster.blogspot.com/feeds/posts/default"/> 
+ <outline text="Henchman Abuse" htmlUrl="http://henchmanabuse.blogspot.com/" type="rss" xmlUrl="http://henchmanabuse.blogspot.com/feeds/posts/default"/> 
+ <outline text="hexgeneration.com" htmlUrl="http://hexgeneration.com" type="rss" xmlUrl="http://hexgeneration.com/?feed=rss2"/> 
+ <outline text="Hidden in Shadows" htmlUrl="http://boggswood.blogspot.com/" type="rss" xmlUrl="http://boggswood.blogspot.com/feeds/posts/default"/> 
+ <outline text="Hill Cantons" htmlUrl="http://hillcantons.blogspot.com/" type="rss" xmlUrl="http://hillcantons.blogspot.com/feeds/posts/default"/> 
+ <outline text="Howling Tower" htmlUrl="http://www.howlingtower.com/" type="rss" xmlUrl="http://www.howlingtower.com/feeds/posts/default"/> 
+ <outline text="Jeffs Gameblog" htmlUrl="http://jrients.blogspot.com/" type="rss" xmlUrl="http://jrients.blogspot.com/feeds/posts/default"/> 
+ <outline text="Joeskythedungeonbrawler's Blog" htmlUrl="http://joeskythedungeonbrawler.wordpress.com" type="rss" xmlUrl="http://joeskythedungeonbrawler.wordpress.com/feed/"/> 
+ <outline text="Kobold Quarterly" htmlUrl="http://www.koboldpress.com/k" type="rss" xmlUrl="http://www.koboldquarterly.com/k/feed"/> 
+ <outline text="Labyrinth Lord/Basic D&D" htmlUrl="http://seobeq.blogspot.com/" type="rss" xmlUrl="http://seobeq.blogspot.com/feeds/posts/default"/> 
+ <outline text="Lasgunpacker" htmlUrl="http://lasgunpacker.blogspot.com/" type="rss" xmlUrl="http://lasgunpacker.blogspot.com/feeds/posts/default"/> 
+ <outline text="Lone Tiger Gamebook Reviews" htmlUrl="http://lonetigerreviews.blogspot.com/" type="rss" xmlUrl="http://lonetigerreviews.blogspot.com/feeds/posts/default"/> 
+ <outline text="LotFP: RPG" htmlUrl="http://lotfp.blogspot.com/" type="rss" xmlUrl="http://lotfp.blogspot.com/feeds/posts/default"/> 
+ <outline text="Mythmere's Blog" htmlUrl="http://swordsandwizardry.blogspot.com/" type="rss" xmlUrl="http://swordsandwizardry.blogspot.com/feeds/posts/default"/> 
+ <outline text="Not Worth Any Experience Points Alive" htmlUrl="http://nwaepa.blogspot.com/" type="rss" xmlUrl="http://nwaepa.blogspot.com/feeds/posts/default"/> 
+ <outline text="PARANOIA"  type="rss" xmlUrl="http://paranoia.costik.com/blogger_rss.xml"/> 
+ <outline text="People them with Monsters" htmlUrl="http://peoplethemwithmonsters.blogspot.com/" type="rss" xmlUrl="http://peoplethemwithmonsters.blogspot.com/feeds/posts/default"/> 
+ <outline text="Peter Adkison Presents..." htmlUrl="http://www.peteradkison.com" type="rss" xmlUrl="http://www.peteradkison.com/feed/"/> 
+ <outline text="PlaGMaDA" htmlUrl="http://plagmada.blogspot.com/" type="rss" xmlUrl="http://plagmada.blogspot.com/feeds/posts/default"/> 
+ <outline text="Playing D&D With Porn Stars" htmlUrl="http://dndwithpornstars.blogspot.com/" type="rss" xmlUrl="http://dndwithpornstars.blogspot.com/feeds/posts/default"/> 
+ <outline text="Psychedelic Fantasies" htmlUrl="http://psychedelicfantasies.blogspot.com/" type="rss" xmlUrl="http://psychedelicfantasies.blogspot.com/feeds/posts/default"/> 
+ <outline text="Really Bad Eggs" htmlUrl="http://black-vulmea.blogspot.com/" type="rss" xmlUrl="http://black-vulmea.blogspot.com/feeds/posts/default"/> 
+ <outline text="Sham's Grog 'n Blog" htmlUrl="http://shamsgrog.blogspot.com/" type="rss" xmlUrl="http://shamsgrog.blogspot.com/feeds/posts/default"/> 
+ <outline text="Sorcery & Super Science!" htmlUrl="http://josephbrowning.blogspot.com/" type="rss" xmlUrl="http://josephbrowning.blogspot.com/feeds/posts/default"/> 
+ <outline text="Strange Magic" htmlUrl="http://strangemagic.robertsongames.com/" type="rss" xmlUrl="http://strangemagic.robertsongames.com/feeds/posts/default"/> 
+ <outline text="tenfootpole.org" htmlUrl="http://tenfootpole.org/ironspike" type="rss" xmlUrl="http://tenfootpole.org/ironspike/?feed=rss2"/> 
+ <outline text="Tenkar's Tavern" htmlUrl="http://www.tenkarstavern.com/" type="rss" xmlUrl="http://www.tenkarstavern.com/feeds/posts/default"/> 
+ <outline text="The Alexandrian" htmlUrl="http://thealexandrian.net" type="rss" xmlUrl="http://thealexandrian.net/feed"/> 
+ <outline text="The City of Iron" htmlUrl="http://the-city-of-iron.blogspot.com/" type="rss" xmlUrl="http://the-city-of-iron.blogspot.com/feeds/posts/default"/> 
+ <outline text="The Doomed World CARCOSA" htmlUrl="http://thedoomedworldcarcosa.wordpress.com" type="rss" xmlUrl="http://thedoomedworldcarcosa.wordpress.com/feed/"/> 
+ <outline text="The Evil GM" htmlUrl="http://www.theevilgm.com/" type="rss" xmlUrl="http://www.theevilgm.com/feeds/posts/default"/> 
+ <outline text="The Gallery: Russ Nicholson" htmlUrl="http://russnicholson.blogspot.com/" type="rss" xmlUrl="http://russnicholson.blogspot.com/feeds/posts/default"/> 
+ <outline text="The Grumpy Old Troll" htmlUrl="http://migellito.blogspot.com/" type="rss" xmlUrl="http://migellito.blogspot.com/feeds/posts/default"/> 
+ <outline text="The Keep on the Gaming Lands" htmlUrl="http://kotgl.blogspot.com/" type="rss" xmlUrl="http://kotgl.blogspot.com/feeds/posts/default"/> 
+ <outline text="The Nine and Thirty Kingdoms" htmlUrl="http://9and30kingdoms.blogspot.com/" type="rss" xmlUrl="http://9and30kingdoms.blogspot.com/feeds/posts/default"/> 
+ <outline text="The Sandbox of Doom" htmlUrl="http://sandboxofdoom.blogspot.com/" type="rss" xmlUrl="http://sandboxofdoom.blogspot.com/feeds/posts/default"/> 
+ <outline text="The Society of Torch, Pole and Rope" htmlUrl="http://poleandrope.blogspot.com/" type="rss" xmlUrl="http://poleandrope.blogspot.com/feeds/posts/default"/> 
+ <outline text="The Way of the Axe." htmlUrl="http://clodian.blogspot.com/" type="rss" xmlUrl="http://clodian.blogspot.com/feeds/posts/default"/> 
+ <outline text="There's a game in that" htmlUrl="http://theresagameinthat.blogspot.com/" type="rss" xmlUrl="http://theresagameinthat.blogspot.com/feeds/posts/default"/> 
+ <outline text="There's Dungeons Down Under" htmlUrl="http://theresdungeonsdownunder.blogspot.com/" type="rss" xmlUrl="http://theresdungeonsdownunder.blogspot.com/feeds/posts/default"/> 
+ <outline text="Too Much Johnson" htmlUrl="http://toomuchjohnson.blogspot.com/" type="rss" xmlUrl="http://toomuchjohnson.blogspot.com/feeds/posts/default"/> 
+ <outline text="Trollgod's Trollhalla - The Outer Sanctum" htmlUrl="http://trollhalla.com/outer-sanctum" type="rss" xmlUrl="http://trollhalla.com/outer-sanctum/feed/"/> 
+ <outline text="Unfrozen caveman dice-chucker" htmlUrl="http://unfrozencavemandicechucker.blogspot.com/" type="rss" xmlUrl="http://unfrozencavemandicechucker.blogspot.com/feeds/posts/default"/> 
+ <outline text="Unofficial Games" htmlUrl="http://zzarchov.blogspot.com/" type="rss" xmlUrl="http://zzarchov.blogspot.com/feeds/posts/default"/> 
+ <outline text="Warhammer: The Enemy Within (WFRP) Actual Play Recordings" htmlUrl="http://warhammer-enemy-within.blogspot.com/" type="rss" xmlUrl="http://warhammer-enemy-within.blogspot.com/feeds/posts/default"/> 
+ <outline text="Wizards.com - Dungeons & Dragons" htmlUrl="http://www.wizards.com/DnD/Globals/Services/ArticleFeed.aspx" type="rss" xmlUrl="http://www.wizards.com/DnD/Globals/Services/ArticleFeed.aspx"/> 
+ <outline text="ZENOPUS ARCHIVES" htmlUrl="http://zenopusarchives.blogspot.com/" type="rss" xmlUrl="http://zenopusarchives.blogspot.com/feeds/posts/default"/> 
+ <outline text="Goblin Punch" htmlUrl="http://goblinpunch.blogspot.com/" type="rss" xmlUrl="http://goblinpunch.blogspot.com/feeds/posts/default"/> 
+ <outline text="False Machine" htmlUrl="http://falsemachine.blogspot.com/" type="rss" xmlUrl="http://falsemachine.blogspot.com/feeds/posts/default"/> 
+ <outline text="Telecanter's Receding Rules" htmlUrl="http://recedingrules.blogspot.com/" type="rss" xmlUrl="http://recedingrules.blogspot.com/feeds/posts/default"/> 
+ <outline text="Monsters and Manuals" htmlUrl="http://monstersandmanuals.blogspot.com/" type="rss" xmlUrl="http://monstersandmanuals.blogspot.com/feeds/posts/default"/> 
+ <outline text="Wampus Country" htmlUrl="http://wampuscountry.blogspot.com/" type="rss" xmlUrl="http://wampuscountry.blogspot.com/feeds/posts/default"/> 
+ <outline text="Wrathofzombie's Blog | A blog of Role-playing Dorkiness!" htmlUrl="http://wrathofzombie.wordpress.com" type="rss" xmlUrl="http://wrathofzombie.wordpress.com/feed/"/> 
+ <outline text="Joethelawyer's Wondrous Imaginings" htmlUrl="http://wondrousimaginings.blogspot.com/" type="rss" xmlUrl="http://wondrousimaginings.blogspot.com/feeds/posts/default"/> 
+ <outline text="Silver Blade Adventures" htmlUrl="http://silverbladeadventures.blogspot.com/" type="rss" xmlUrl="http://silverbladeadventures.blogspot.com/feeds/posts/default"/> 
+ <outline text="Semper Initiativus Unum" htmlUrl="http://initiativeone.blogspot.com/" type="rss" xmlUrl="http://initiativeone.blogspot.com/feeds/posts/default"/> 
+ <outline text="Dungeon of Signs" htmlUrl="http://dungeonofsigns.blogspot.com/" type="rss" xmlUrl="http://dungeonofsigns.blogspot.com/feeds/posts/default"/> 
+ <outline text="Last Gasp" htmlUrl="http://www.lastgaspgrimoire.com" type="rss" xmlUrl="http://www.lastgaspgrimoire.com/feed/"/> 
+ <outline text="games with others" htmlUrl="http://gameswithothers.blogspot.com/" type="rss" xmlUrl="http://gameswithothers.blogspot.com/feeds/posts/default"/> 
+ <outline text="Middenmurk" htmlUrl="http://middenmurk.blogspot.com/" type="rss" xmlUrl="http://middenmurk.blogspot.com/feeds/posts/default"/> 
+ <outline text="Tales of the Grotesque and Dungeonesque" htmlUrl="http://talesofthegrotesqueanddungeonesque.blogspot.com/" type="rss" xmlUrl="http://talesofthegrotesqueanddungeonesque.blogspot.com/feeds/posts/default"/> 
+ <outline text="In Places Deep" htmlUrl="http://inplacesdeep.blogspot.com/" type="rss" xmlUrl="http://inplacesdeep.blogspot.com/feeds/posts/default"/> 
+ <outline text="Necropraxis | Old school D&D and other such beasts" htmlUrl="http://www.necropraxis.com" type="rss" xmlUrl="http://www.necropraxis.com/feed/"/> 
+ </outline> 
+</body> 
+</opml> 
+
